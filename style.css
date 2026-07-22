@@ -45,23 +45,9 @@ body {
   position: absolute;
   top: 50px;
   left: 60px;
-
-  font-size: 32px;
-  font-weight: 900;
-  color: #ffcc00;
-
-  letter-spacing: 1px;
-  font-family: "Baloo 2", cursive;
-
-  -webkit-text-stroke: 8px #1e0c98; /* Pokémon blue outline */
-  text-shadow: 8px #2a18c8;
-  text-shadow:
-    -3px 3px 0 #2c0fc0,
-    3px 3px 0 #2709ac,
-    3px -3px 0 #130d87,
-    -3px -3px 0 #360eb8;
-  paint-order: stroke fill;
-  letter-spacing: 1px;
+}
+.logo img {
+  width: 150px;
 }
 
 /* Hamburger menu */
@@ -144,7 +130,7 @@ h1 {
 .pikachu-wrapper {
   position: absolute;
   top: 50%;
-  left: 45%;
+  left: 55%;
   transform: translate(-30%, -50%);
   width: 680px;
   z-index: 5;
