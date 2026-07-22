@@ -1,9 +1,4 @@
-+47
-Lines changed: 47 additions & 0 deletions
 
-
-Original file line number	Diff line number	Diff line change
-@@ -0,0 +1,47 @@
 # 🔴 Pokémon Website — Assignment 1
 A single-page Pokémon showcase built with pure HTML & CSS, featuring a split-color hero section with Pikachu, a custom Pokémon-style logo, and a decorative pokéball SVG watermark.
 ## 🌐 Live Preview
